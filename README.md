@@ -290,6 +290,11 @@ QT_LOGGING_RULES="*.debug=true" ./JinGo
 adb logcat -s JinGo:V SuperRay-JNI:V
 ```
 
+## 联系方式
+
+- Telegram 频道: [@OpineWorkPublish](https://t.me/OpineWorkPublish)
+- Telegram 群组: [@OpineWorkOfficial](https://t.me/OpineWorkOfficial)
+
 ## 许可证
 
 MIT License
